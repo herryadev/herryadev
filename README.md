@@ -14,7 +14,7 @@
 
 ### 🔗 Connect with me
 -  🐦 [**X (Twitter)**](https://x.com/henry0xx)
-- 💬 [**Telegram:**] [@henry0xx](https://t.me/henry0xx)
+- 💬 **Telegram:** [@henry0xx](https://t.me/henry0xx)
 - 📫 Email: [herrya1010@gmail.com](mailto:herrya1010@gmail.com)
 
 ---
