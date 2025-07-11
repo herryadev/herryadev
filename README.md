@@ -13,9 +13,9 @@
 ---
 
 ### 🔗 Connect with me
-- 🌐 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ng%C3%B4-anh-qu%C3%A2n-454388157/))
-- 🐦 [Twitter]([https://twitter.com/yourprofile](https://x.com/home))
-- 📫 Email: [your.email@example.com](mailto:your.email@example.com)
+-  🐦 [**X (Twitter)**](https://x.com/henry0xx)
+- 💬 **Telegram:** [@henry0xx](https://t.me/henry0xx)
+- 📫 Email: [herrya1010@gmail.com](mailto:herrya1010@gmail.com)
 
 ---
 
@@ -36,5 +36,5 @@
 ---
 
 ### ⚡ Recent Projects
-- 🔗 [Awesome DApp]([https://github.com/yourusername/your-dapp](https://whales.market/))
-- 🔗 [NFT Marketplace]([https://github.com/yourusername/your-nft-marketplace](http://lootbot.xyz/))
+- 🐋 [**Whales Market**](https://whales.market/) — A trustless OTC marketplace for token trading.
+- 🤖 [**Lootbot**](http://lootbot.xyz/) — Automation tool/bot to help users maximize crypto opportunities.
