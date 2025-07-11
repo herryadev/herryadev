@@ -7,7 +7,8 @@
 ### 🧑‍💻 About Me
 - 🔭 I’m currently working on **decentralized applications (DApps)** and **smart contracts**
 - 🌱 I’m learning **Solidity, Rust**
-- 💬 Ask me about **blockchain architecture, DeFi, NFTs**
+- 🧩 I specialize in: automation, real-time dashboards, and crypto protocol integration
+- 💬 Ask me about: TypeScript • Node.js • Solidity • PostgreSQL • Telegram Bots • LLMs
 - ⚡ Fun fact: I love exploring **Web3 communities** and open-source projects
 
 ---
