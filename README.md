@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Henry]
+# 👋 Hi, I'm Henry
 
 🚀 **Software Engineer | Blockchain | Web3 | Smart Contract Development**
 
